@@ -12,3 +12,7 @@
 .page-mycourses .block_myoverview .block-controls {
     display: none;
 }
+
+#page-my-index .modal-backdrop {
+    z-index: unset !important;
+}
